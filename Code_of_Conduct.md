@@ -1,4 +1,4 @@
-
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -91,7 +91,7 @@ those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
-# Contributor Covenant Code of Conduct
+
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
